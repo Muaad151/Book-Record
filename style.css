@@ -1,0 +1,26 @@
+.max_width {
+    max-width: 650px;
+}
+
+.red {
+    color: red;
+}
+
+.alert {
+    text-align: center;
+    color: white;
+    border-radius: 5px;
+    padding: 3px;
+}
+
+.alert-danger {
+    background-color: rgba(250, 54, 54, 0.835);
+}
+
+.alert-success {
+    background-color: rgba(35, 211, 88, 0.829);
+}
+
+.glass {
+    backdrop-filter: blur(10px);
+}
